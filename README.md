@@ -152,7 +152,7 @@ npm run dev
 
 ## Notes on MUI v9
 
-This starter uses the current MUI major (v9), which **removed direct system
+This starter uses the current MUI major (v9), which **removed direct system.
 props from `Box`, `Stack`, `Typography`, and `Grid`** (e.g. `<Box display="flex" gap={2}>`
 no longer type-checks). Use the `sx` prop instead:
 `<Box sx={{ display: "flex", gap: 2 }}>`. All components in this repo already
