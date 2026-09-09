@@ -1,4 +1,4 @@
-# RCC Admin Starter
+## RCC Admin Starter
 
 A reusable component collection (RCC) for admin-panel style React apps —
 built as a modern rewrite of an older Create React App + Formik codebase.
