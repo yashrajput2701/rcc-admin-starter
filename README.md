@@ -120,7 +120,7 @@ field name is a compile error, not a runtime bug.
 See `src/features/employees/EmployeeFormPage.tsx` for the full add/edit
 pattern (one page, one schema, handles both create and update).
 
-## Adding a new feature (e.g. "Manufacturers")
+### Adding a new feature (e.g. "Manufacturers")
 
 1. `src/features/manufacturers/manufacturers.types.ts` — data shape.
 2. `manufacturers.schema.ts` — zod schema for the add/edit form.
